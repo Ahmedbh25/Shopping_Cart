@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# About Shopping Cart :
+
+## Tools: 
+1. I choose bootstrap for creating the frontend design.
+2. REACTJS. 
+
+## Description :
+
+1. Using faker, popular library that generates fake restaurant menu data. 
+2. Filter list of menu data by rating, ascending price, descending price, inStock, Only fast delivery.
+3. Add menu item to Cart & delete from Cart with updating the basket. 
+4. Search menu item inside text input. 
